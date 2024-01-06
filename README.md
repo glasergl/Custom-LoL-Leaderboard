@@ -3,7 +3,11 @@ This program visualizes the best players of [League of Legends](https://www.leag
 
 ## Screenshots of example visualizations
 First few Solo/Duo Challenger Players:
-![](Example_View_1.PNG)
+<p align="center">
+  <img src="Example_View_1.PNG" width="60%">
+</p>
 
 Last few Flex Grandmaster Players:
-![](Example_View_2.PNG)
+<p align="center">
+  <img src="Example_View_2.PNG" width="60%">
+</p>
