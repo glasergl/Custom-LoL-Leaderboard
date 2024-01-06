@@ -3,7 +3,7 @@ package leaderBoard;
 /**
  * Top tier elos which are part of a leaderboard.
  * 
- * @author glasergl
+ * @author Gabriel Glaser
  */
 public enum TopTierElo {
 	MASTER, GRANDMASTER, CHALLENGER;

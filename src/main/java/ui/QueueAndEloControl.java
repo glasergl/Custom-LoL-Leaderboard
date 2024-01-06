@@ -13,7 +13,7 @@ import leaderBoard.TopTierElo;
  * Visual representation of a control panel to decide which players of which
  * queue should be visible.
  * 
- * @author glasergl
+ * @author Gabriel Glaser
  */
 public final class QueueAndEloControl extends JPanel {
 	private static final RankedQueue DEFAULT_INITIALLY_SELECTED_QUEUE = RankedQueue.SOLO_DUO;

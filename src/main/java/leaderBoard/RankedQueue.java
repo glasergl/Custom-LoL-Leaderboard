@@ -3,7 +3,7 @@ package leaderBoard;
 /**
  * All queues which contain an elo system and leaderboard.
  * 
- * @author glasergl
+ * @author Gabriel Glaser
  */
 public enum RankedQueue {
 	SOLO_DUO, FLEX;

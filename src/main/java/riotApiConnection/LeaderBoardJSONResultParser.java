@@ -14,7 +14,7 @@ import leaderBoard.TopTierElo;
  * This class will parse the resulted JSONObject of players of a single queue
  * and elo from the Riot API into a list of the custom datatype LoLPlayer.
  * 
- * @author glasergl
+ * @author Gabriel Glaser
  */
 public final class LeaderBoardJSONResultParser {
 	private final JSONObject result;

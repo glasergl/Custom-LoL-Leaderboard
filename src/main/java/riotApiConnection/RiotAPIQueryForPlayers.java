@@ -15,7 +15,7 @@ import leaderBoard.TopTierElo;
  * This class makes an HTTP GET request upon instantiated to retrieve all
  * players of the given queue and elo. The result is available as a JSONObject.
  * 
- * @author glasergl
+ * @author Gabriel Glaser
  */
 public final class RiotAPIQueryForPlayers {
 	private static final String PROTOCOL_AND_DOMAIN = "https://euw1.api.riotgames.com";

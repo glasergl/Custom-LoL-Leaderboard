@@ -16,7 +16,7 @@ import java.util.Optional;
  * players have been retrieved. Hence, the fields will be set later during
  * instantiation of a Leaderboard object.
  * 
- * @author glasergl
+ * @author Gabriel Glaser
  */
 public final class LoLPlayer implements Comparable<LoLPlayer> {
 	private final String summonerName;

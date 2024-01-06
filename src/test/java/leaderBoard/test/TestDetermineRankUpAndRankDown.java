@@ -15,7 +15,7 @@ import leaderBoard.RankedQueue;
 import leaderBoard.TopTierElo;
 
 /**
- * @author glasergl
+ * @author Gabriel Glaser
  */
 public class TestDetermineRankUpAndRankDown {
 	/**

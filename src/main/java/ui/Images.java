@@ -10,7 +10,7 @@ import javax.swing.ImageIcon;
 /**
  * Class which retrieves and provides all necessary images.
  * 
- * @author glasergl
+ * @author Gabriel Glaser
  */
 public final class Images {
 	public static final ImageIcon CHALLENGER_ICON = retrieveImageIcon("Challenger_Icon.png", 175, 175);

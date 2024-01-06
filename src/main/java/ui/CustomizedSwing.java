@@ -15,7 +15,7 @@ import javax.swing.border.EmptyBorder;
  * Class with functions that return Swing components with default attributes,
  * e.g., JButtons without a painted focus-rectangle.
  * 
- * @author glasergl
+ * @author Gabriel Glaser
  */
 public final class CustomizedSwing {
 	static {

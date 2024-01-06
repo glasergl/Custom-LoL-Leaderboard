@@ -17,7 +17,7 @@ import leaderBoard.TopTierElo;
  * again. Note that, adding a big leaderboard, e.g., 10k+ players, needs long
  * processing by swing.
  * 
- * @author glasergl
+ * @author Gabriel Glaser
  */
 public final class AllLeaderBoardsUI extends JPanel {
 	private static final Dimension PREFERRED_SIZE_OF_LEADER_BOARD_UI = new Dimension(800, 600);

@@ -18,7 +18,7 @@ import leaderBoard.TopTierElo;
  * for Solo/Duo and Flex. Furthermore, this class also stores the time where the
  * particular state has been observed.
  * 
- * @author glasergl
+ * @author Gabriel Glaser
  */
 public final class RiotAPIQueryForAllTopTierPlayers {
 	private final List<LoLPlayer> soloDuoChallengerPlayers;

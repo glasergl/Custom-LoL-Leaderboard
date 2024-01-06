@@ -11,7 +11,7 @@ import leaderBoard.LeaderBoard;
  * JFrame which wraps up all needed components to display the leaderboard and
  * control its content.
  * 
- * @author glasergl
+ * @author Gabriel Glaser
  */
 public class MainFrame extends JFrame {
 	private static final String FRAME_TITLE = "Custom LoL Leaderboard";

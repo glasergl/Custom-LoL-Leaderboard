@@ -14,7 +14,7 @@ import leaderBoard.TopTierElo;
  * This class shows all given LoLPlayer objects in a single column. If the elo
  * of the given players is challenger, the first 10 players are highlighted.
  * 
- * @author glasergl
+ * @author Gabriel Glaser
  */
 public class LoLPlayersUI extends JPanel {
 	private static final int SEPARATOR_HEIGHT = 5;

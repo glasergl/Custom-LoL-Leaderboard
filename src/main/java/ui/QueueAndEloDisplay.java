@@ -17,7 +17,7 @@ import leaderBoard.TopTierElo;
  * elements like the time the leaderboard was extracted from Riot or what are
  * the minimum LP to promote to a certain elo.
  * 
- * @author glasergl
+ * @author Gabriel Glaser
  */
 public class QueueAndEloDisplay extends JPanel {
 	private final LeaderBoard soloDuoPlayers;

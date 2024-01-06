@@ -16,7 +16,7 @@ import java.util.List;
  * For instance, the cutoff to challenger in solo/duo is the lp of the player at
  * position 300 considering all players in all three top tier elos.
  * 
- * @author glasergl
+ * @author Gabriel Glaser
  */
 public final class LeaderBoard {
 	private static final int MINIMUM_LP_FOR_CHALLENGER = 500;

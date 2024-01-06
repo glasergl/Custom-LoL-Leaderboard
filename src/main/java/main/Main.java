@@ -15,7 +15,7 @@ import ui.MainFrame;
 /**
  * Class which main method starts the program.
  * 
- * @author glasergl
+ * @author Gabriel Glaser
  */
 public final class Main {
 	private static final String ERROR_FILE_NAME = "error.log";

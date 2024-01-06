@@ -13,7 +13,7 @@ import leaderBoard.TopTierElo;
 /**
  * Class which depicts all properties of a given LoLPlayer object.
  * 
- * @author glasergl
+ * @author Gabriel Glaser
  */
 public final class LoLPlayerUI extends JPanel {
 	private static final int PREFERRED_HEIGHT = 30;
