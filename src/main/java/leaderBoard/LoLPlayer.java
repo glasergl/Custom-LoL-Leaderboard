@@ -88,6 +88,11 @@ public final class LoLPlayer implements Comparable<LoLPlayer> {
 		}
 	}
 
+	/**
+	 * @param player
+	 * @return Integer which reflects descending ordering (according to
+	 *         leaguePoints) between this and the given player.
+	 */
 	@Override
 	public int compareTo(final LoLPlayer player) {
 		return -Integer.compare(leaguePoints, player.getLeaguePoints());
