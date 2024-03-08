@@ -16,6 +16,3 @@ Last few Flex Grandmaster Players:
 <p align="center">
   <img src="Example_View_2.PNG" width="60%">
 </p>
-
-## Notes
-- Windows will likely flag the `.exe` as not trustable. Therefore, in order to correctly run it, it needs to have administrative rights.
